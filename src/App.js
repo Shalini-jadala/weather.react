@@ -8,22 +8,14 @@ function App() {
   return (
     <div className="container">
       <header className="App-header">
-      
-        
-          < Forms />
+      < Forms />
           <h1>London</h1>
           <Lists />
           <Emojis />
-          
-        
-          
-      
-       
-      
-      </header>
+          </header>
       <footer>
-        This project was coded by <a href=" " >Shalini.J</a> and
-         <a href=" "> open sourced on Github</a> hosted on <a href=" " >
+        This project was coded by <a href="https://github.com/Shalini-jadala" >Shalini.J</a> and
+         <a href="https://github.com/Shalini-jadala/weather.react"> open sourced on Github</a> hosted on <a href=" " >
           Netlify.</a>
       </footer>
     </div>
