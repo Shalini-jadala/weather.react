@@ -15,7 +15,8 @@ function App() {
           </header>
       <footer>
         This project was coded by <a href="https://github.com/Shalini-jadala" >Shalini.J</a> and
-         <a href="https://github.com/Shalini-jadala/weather.react"> open sourced on Github</a> hosted on <a href=" " >
+         <a href="https://github.com/Shalini-jadala/weather.react"> open sourced on Github</a> hosted on 
+         <a href="https://earnest-begonia-3569ca.netlify.app/" >
           Netlify.</a>
       </footer>
     </div>
